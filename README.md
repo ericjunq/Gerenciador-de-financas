@@ -27,8 +27,8 @@ Google Gemini API — geração de relatórios com IA
 
 ⚙️ Configuração
 1. Clone o repositório
-bashgit clone https://github.com/ericjunq/Gerenciador-de-financas.git
-cd seu-repositorio
+bashgit clone https://github.com/ericjunq/Gerenciador-de-financas/
+cd Gerenciador-de-financas
 2. Instale as dependências
 bashpip install fastapi uvicorn sqlalchemy pydantic[email] python-jose pwdlib python-dotenv google-generativeai
 3. Configure o arquivo .env
